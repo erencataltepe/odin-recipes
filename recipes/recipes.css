@@ -1,0 +1,23 @@
+.description {
+  background-color: lightblue;
+}
+
+.ingredients {
+  background-color: lightcoral;
+}
+
+.steps {
+  background-color: lightgoldenrodyellow;
+}
+
+.description,
+.steps,
+.ingredients {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  background-color: lightseagreen;
+}
