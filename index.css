@@ -1,0 +1,18 @@
+.menemen {
+  background-color: red;
+}
+
+.baklava {
+  background-color: yellow;
+}
+
+.karniyarik {
+  background-color: purple;
+  color: white;
+}
+
+.menemen,
+.karniyarik,
+.baklava {
+  font-size: 32px;
+}
