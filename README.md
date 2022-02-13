@@ -6,4 +6,4 @@ My main goal is to create a basic website that includes an image, a hyperlink an
 
 ## Live Site
 
-[Odin Recipes]()
+[Odin Recipes](https://erencataltepe.github.io/odin-recipes/)
