@@ -2,7 +2,9 @@
 
 Odin Recipes is the first project of the The Odin Project - Foundations course.
 
-[Original Project](https://www.theodinproject.com/lessons/foundations-recipes)
+[Original Project Description](https://www.theodinproject.com/lessons/foundations-recipes)
+
+[Live Project](https://erencataltepe.github.io/odin-recipes/)
 
 The main objective of the project is to exercise main skeleton elements of the HTML Language like:
 
