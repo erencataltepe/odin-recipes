@@ -11,4 +11,6 @@ The main objective of the project is to exercise main skeleton elements of the H
 - Links
 - Style tags
 
-No CSS is used in the initial version of the project.
+Basic CSS features are used on this project.
+
+Color Pallette: [Color Hunt](https://colorhunt.co/palette/093fb4fffcfbffd8d8ed3500)
