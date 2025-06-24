@@ -1,0 +1,20 @@
+body {
+  background-color: #fffcfb;
+}
+
+.main {
+  width: 800px;
+  height: auto;
+  border: 3px solid #ffd8d8;
+  margin: 50px auto;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 25px;
+}
+
+h1 {
+  color: #093fb4;
+}
+
+h2 {
+  color: #ed3500;
+}
