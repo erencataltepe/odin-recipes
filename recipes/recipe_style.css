@@ -1,0 +1,26 @@
+body {
+  background-color: #d7c097;
+}
+
+main {
+  margin: 80px auto;
+  width: 800px;
+  background-color: #e7deaf;
+  padding: 20px;
+}
+
+.image {
+  margin: 0 auto;
+  width: 700px;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #007e6e;
+}
