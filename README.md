@@ -1,2 +1,4 @@
 # odin-recipes
-A Basic Webpage
+
+Odin Recipes is a basic html web-page.
+I've created this repo to understand and practice the basics of HTML.
