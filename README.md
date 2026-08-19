@@ -18,4 +18,4 @@ This project demonstrates fundamental HTML skills including:
   - Recipe title and description
   - Ingredients list
   - Step-by-step cooking instructions
-  - No styling (pure HTML)
+  - Basic CSS styling (pure HTML)
